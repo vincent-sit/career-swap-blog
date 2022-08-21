@@ -1,0 +1,21 @@
+#readingPic {
+    border-radius: 2px;
+}
+
+#siteTitle {
+    font-size: 45%;
+}
+
+.text {
+    text-align: justify;
+}
+
+.heading {
+    font-size: 1em;
+    padding-top:5px;
+    text-align:center;
+}
+
+.body.text{
+    font-size: 0.5em;
+}
